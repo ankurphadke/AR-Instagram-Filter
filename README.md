@@ -2,6 +2,8 @@
 
 # Winner of the Facebook Spark AR Sticker Challenge at TOHacks 2020.
 
+**Video link:** https://devpost.com/software/who-s-coffin
+
 ## Inspiration
 During this quarantine, we got sick and tired of scrolling through social media and overused filters that didn't highlight what's happening in the real world around us. We decided to use the power of social media to encourage others to stay at home and safe during this pandemic.
 
